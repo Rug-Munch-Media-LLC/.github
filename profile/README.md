@@ -1,14 +1,22 @@
 # Rug Munch Media LLC
 
-> **AI-Powered Crypto Security. Don't Get Rugged.**
-> 
-> 📡 **Telegram**: [@CryptoRugMunch](https://t.me/CryptoRugMunch) • [@cryptorugmuncher](https://t.me/cryptorugmuncher)
-> 🐦 **X**: [@cryptorugmunch](https://x.com/cryptorugmunch)
+> **Wyoming-based. Mission: protect retail crypto investors from scams and scammers.**
+>
+> 📡 **Live Coverage**: [@cryptorugmunch on X](https://x.com/cryptorugmunch) • [@cryptorugmuncher on Telegram](https://t.me/cryptorugmuncher)
+> 💬 **DM**: [@CryptoRugMunch](https://t.me/CryptoRugMunch)
 > 🌐 **Web**: [rugmunch.io](https://rugmunch.io)
 
 ---
 
-## Products
+## The Mission
+
+We expose scams, report on scammers, and build tools to protect retail traders. Our intention is to transition into a **community-driven DAO LLC under Wyoming state law** within the next year — putting governance directly in the hands of the community we protect.
+
+---
+
+## What We're Building
+
+**Rug Munch Intelligence** — aspiring to be the Bloomberg Terminal of shitcoin trading and the best scam detection platform in the space. AI-powered tools to keep retail traders from getting rugged.
 
 | Product | Repo | Status |
 |---------|------|--------|
@@ -27,14 +35,12 @@
 | **x402 Twitter** | `x402-twitter-view` | Self-healing X/Twitter data access |
 | **MCP Server** | `rug-munch-intelligence-mcp` | Model Context Protocol for AI agents |
 
-## Proprietary Notice
+---
 
-All software in this organization is **proprietary and confidential**. 
-No open-source license is granted. All rights reserved by Rug Munch Media LLC.
-Unauthorized use, distribution, or reproduction is strictly prohibited.
+## Follow the Build
 
-For licensing inquiries: **biz@rugmunch.io**
+We're building this live. Follow along on [X](https://x.com/cryptorugmunch) and [Telegram](https://t.me/cryptorugmuncher).
 
 ---
 
-*(c) 2026 Rug Munch Media LLC — All Rights Reserved*
+*© 2026 Rug Munch Media LLC — All Rights Reserved. Wyoming DAO LLC transition pending.*
