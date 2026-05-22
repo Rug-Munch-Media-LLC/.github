@@ -1,6 +1,10 @@
 # Rug Munch Media LLC
 
 > **AI-Powered Crypto Security. Don't Get Rugged.**
+> 
+> 📡 **Telegram**: [@CryptoRugMunch](https://t.me/CryptoRugMunch) • [@cryptorugmuncher](https://t.me/cryptorugmuncher)
+> 🐦 **X**: [@cryptorugmunch](https://x.com/cryptorugmunch)
+> 🌐 **Web**: [rugmunch.io](https://rugmunch.io)
 
 ---
 
@@ -23,12 +27,14 @@
 | **x402 Twitter** | `x402-twitter-view` | Self-healing X/Twitter data access |
 | **MCP Server** | `rug-munch-intelligence-mcp` | Model Context Protocol for AI agents |
 
-## Platform
+## Proprietary Notice
 
-- **Website**: https://rugmunch.io
-- **X/Twitter**: https://x.com/cryptorugmunch
-- **Contact**: biz@rugmunch.io
+All software in this organization is **proprietary and confidential**. 
+No open-source license is granted. All rights reserved by Rug Munch Media LLC.
+Unauthorized use, distribution, or reproduction is strictly prohibited.
+
+For licensing inquiries: **biz@rugmunch.io**
 
 ---
 
-*(c) 2026 Rug Munch Media LLC — All Rights Reserved. Proprietary software.*
+*(c) 2026 Rug Munch Media LLC — All Rights Reserved*
