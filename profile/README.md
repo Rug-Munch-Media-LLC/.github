@@ -1,46 +1,67 @@
 # Rug Munch Media LLC
 
-> **Wyoming-based. Mission: protect retail crypto investors from scams and scammers.**
->
-> 📡 **Live Coverage**: [@cryptorugmunch on X](https://x.com/cryptorugmunch) • [@cryptorugmuncher on Telegram](https://t.me/cryptorugmuncher)
-> 💬 **DM**: [@CryptoRugMunch](https://t.me/CryptoRugMunch)
-> 🌐 **Web**: [rugmunch.io](https://rugmunch.io)
+<p align="center">
+  <strong>Wyoming LLC • Protecting Retail Crypto Investors From Scams</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scam_Detection-🚨-red">
+  <img src="https://img.shields.io/badge/Rug_Pull_Prevention-🛡️-orange">
+  <img src="https://img.shields.io/badge/Crypto_Security-🔒-brightgreen">
+  <img src="https://img.shields.io/badge/7_Chains-⛓️-blue">
+  <img src="https://img.shields.io/badge/97_Tools-🔧-purple">
+  <img src="https://img.shields.io/badge/x402_Protocol-💰-gold">
+  <img src="https://img.shields.io/badge/DAO_LLC_Transition-🏛️-white">
+</p>
 
 ---
 
-## The Mission
+## 📡 Live Coverage
 
-We expose scams, report on scammers, and build tools to protect retail traders. Our intention is to transition into a **community-driven DAO LLC under Wyoming state law** within the next year — putting governance directly in the hands of the community we protect.
-
----
-
-## What We're Building
-
-**Rug Munch Intelligence** — aspiring to be the Bloomberg Terminal of shitcoin trading and the best scam detection platform in the space. AI-powered tools to keep retail traders from getting rugged.
-
-| Product | Repo | Status |
-|---------|------|--------|
-| **RMI Backend** | `rugmuncher-backend` | Private — Core API, detection engine, data pipeline |
-| **RMI Frontend** | `rmi-frontend` | Private — React/TypeScript web application |
-| **RugCharts** | `rugcharts` | Public — Real-time token charting, AI TA |
-| **RugMaps** | `rugmaps` | Public — Visual blockchain threat mapping |
-| **Telegram Bot** | `rugmuncher-telegram` | Private — Community scanner + alerts |
-
-## Infrastructure
-
-| Project | Repo | Description |
-|---------|------|-------------|
-| **x402 Solana** | `x402-gateway-solana` | 97 tools via USDC on Solana |
-| **x402 Multi-Chain** | `x402-gateway-base` | Base, ETH, BSC, ARB, OPT, POL |
-| **x402 Twitter** | `x402-twitter-view` | Self-healing X/Twitter data access |
-| **MCP Server** | `rug-munch-intelligence-mcp` | Model Context Protocol for AI agents |
+**[@cryptorugmunch on X](https://x.com/cryptorugmunch)** • **[@cryptorugmuncher on Telegram](https://t.me/cryptorugmuncher)** • **[DM @CryptoRugMunch](https://t.me/CryptoRugMunch)**
 
 ---
 
-## Follow the Build
+## 🛡️ Rug Munch Intelligence
 
-We're building this live. Follow along on [X](https://x.com/cryptorugmunch) and [Telegram](https://t.me/cryptorugmuncher).
+Building the **Bloomberg Terminal of shitcoin trading** — the most comprehensive scam detection platform in crypto. AI-powered tools across 7 chains to keep retail traders safe.
+
+### Products
+
+| Product | Description | Status |
+|---------|-------------|--------|
+| 🛡️ **RMI Backend** | Core detection engine — rug pulls, honeypots, wallet clustering | Private |
+| 🖥️ **RMI Frontend** | React/TypeScript web application | Private |
+| 📊 **RugCharts** | Real-time token charting + AI technical analysis | Public |
+| 🗺️ **RugMaps** | Visual wallet connection graphs, fund flow tracing | Public |
+| 🤖 **Telegram Bot** | Community scanner — instant token security checks | Private |
+
+### Infrastructure
+
+| Project | Description |
+|---------|-------------|
+| **x402 Solana** | 97 tools via USDC micropayments — Solana |
+| **x402 Multi-Chain** | Base, ETH, BSC, ARB, OPT, POL gateways |
+| **x402 Twitter** | Self-healing X/Twitter data for AI agents |
+| **MCP Server** | Model Context Protocol — 97 tools for AI agent discovery |
 
 ---
 
-*© 2026 Rug Munch Media LLC — All Rights Reserved. Wyoming DAO LLC transition pending.*
+## 🏛️ DAO LLC Transition
+
+Our intention is to transition into a **community-driven DAO LLC under Wyoming state law** within the next year — putting governance directly in the hands of the community we protect.
+
+---
+
+## 🔗 Links
+
+- **Website**: [rugmunch.io](https://rugmunch.io)
+- **X/Twitter**: [@cryptorugmunch](https://x.com/cryptorugmunch)
+- **Telegram**: [@cryptorugmuncher](https://t.me/cryptorugmuncher)
+- **Contact**: biz@rugmunch.io
+
+---
+
+<p align="center">
+  <sub>© 2026 Rug Munch Media LLC — All Rights Reserved • Proprietary Software • Follow the build</sub>
+</p>
