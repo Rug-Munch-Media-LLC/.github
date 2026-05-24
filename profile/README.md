@@ -1,67 +1,89 @@
-# Rug Munch Media LLC
+# Rug Munch Intelligence
 
-<p align="center">
-  <strong>Wyoming LLC • Protecting Retail Crypto Investors From Scams</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scam_Detection-🚨-red">
-  <img src="https://img.shields.io/badge/Rug_Pull_Prevention-🛡️-orange">
-  <img src="https://img.shields.io/badge/Crypto_Security-🔒-brightgreen">
-  <img src="https://img.shields.io/badge/7_Chains-⛓️-blue">
-  <img src="https://img.shields.io/badge/97_Tools-🔧-purple">
-  <img src="https://img.shields.io/badge/x402_Protocol-💰-gold">
-  <img src="https://img.shields.io/badge/DAO_LLC_Transition-🏛️-white">
-</p>
+> **Don't get rugged. Get intelligence.**  
+> 225 crypto security & analysis tools. 13 blockchains. AI-native MCP server.
 
 ---
 
-## 📡 Live Coverage
+## What We Build
 
-**[@cryptorugmunch on X](https://x.com/cryptorugmunch)** • **[@cryptorugmuncher on Telegram](https://t.me/cryptorugmuncher)** • **[DM @CryptoRugMunch](https://t.me/CryptoRugMunch)**
+### Rug Munch Intelligence MCP Server
+The most complete crypto intelligence MCP on the market. AI agents get instant access to professional-grade blockchain security, wallet forensics, whale tracking, and market analysis through the Model Context Protocol.
 
----
+**225 tools. Free trials. Pay-per-use micropayments. No API keys.**
 
-## 🛡️ Rug Munch Intelligence
+→ [rug-munch-intelligence-mcp](https://github.com/Rug-Munch-Media-LLC/rug-munch-intelligence-mcp)  
+→ [rugmunch.io](https://rugmunch.io)
 
-Building the **Bloomberg Terminal of shitcoin trading** — the most comprehensive scam detection platform in crypto. AI-powered tools across 7 chains to keep retail traders safe.
+| Category | Tools | Capability |
+|----------|-------|-----------|
+| Security | 20 | Honeypot detection, rug pull prediction, contract audit, clone detection, MEV protection |
+| Intelligence | 18 | Whale tracking, smart money flows, wallet clustering, insider detection, syndicate mapping |
+| Market | 9 | Market pulse, chain health, gas forecast, DeFi yields, arbitrage scanning |
+| Analysis | 8 | Wallet forensics, PnL tracking, portfolio aggregation, token deep dive |
+| Social | 6 | Sentiment analysis, Twitter/X signals, KOL performance tracking |
+| Launchpad | 3 | New token discovery, launch intelligence, sniper alerts |
+| Premium | 3 | OSINT identity hunt, forensic investigation, DCF valuation |
+| Bundles | 4 | Multi-tool packs at 23-33% discount |
 
-### Products
+### x402 Payment Gateways
+Production Cloudflare Worker gateways processing micropayments across chains. HTTP 402 Payment Required for AI agents.
 
-| Product | Description | Status |
-|---------|-------------|--------|
-| 🛡️ **RMI Backend** | Core detection engine — rug pulls, honeypots, wallet clustering | Private |
-| 🖥️ **RMI Frontend** | React/TypeScript web application | Private |
-| 📊 **RugCharts** | Real-time token charting + AI technical analysis | Public |
-| 🗺️ **RugMaps** | Visual wallet connection graphs, fund flow tracing | Public |
-| 🤖 **Telegram Bot** | Community scanner — instant token security checks | Private |
+→ [x402-gateway-base](https://github.com/Rug-Munch-Media-LLC/x402-gateway-base) — 97 tools on Base, Ethereum, BSC, Arbitrum, Optimism, Polygon  
+→ [x402-gateway-solana](https://github.com/Rug-Munch-Media-LLC/x402-gateway-solana) — 97 tools on Solana
 
-### Infrastructure
+### RugCharts
+Real-time crypto token charting with AI technical analysis. Live trade streaming across 7 chains.
 
-| Project | Description |
-|---------|-------------|
-| **x402 Solana** | 97 tools via USDC micropayments — Solana |
-| **x402 Multi-Chain** | Base, ETH, BSC, ARB, OPT, POL gateways |
-| **x402 Twitter** | Self-healing X/Twitter data for AI agents |
-| **MCP Server** | Model Context Protocol — 97 tools for AI agent discovery |
-
----
-
-## 🏛️ DAO LLC Transition
-
-Our intention is to transition into a **community-driven DAO LLC under Wyoming state law** within the next year — putting governance directly in the hands of the community we protect.
+→ [rugcharts](https://github.com/Rug-Munch-Media-LLC/rugcharts)
 
 ---
 
-## 🔗 Links
+## Payment Infrastructure
 
-- **Website**: [rugmunch.io](https://rugmunch.io)
-- **X/Twitter**: [@cryptorugmunch](https://x.com/cryptorugmunch)
-- **Telegram**: [@cryptorugmuncher](https://t.me/cryptorugmuncher)
-- **Contact**: biz@rugmunch.io
+**13 chains. 10 facilitators. Auto-routed for best price & speed.**
+
+| Chain | Facilitators | Token |
+|-------|-------------|-------|
+| Base | Coinbase CDP, PayAI, EIP-7702 | USDC |
+| Solana | PayAI | USDC |
+| Ethereum | Primev (free), PayAI, EIP-7702 | USDC |
+| BSC | Pieverse, EIP-7702 | USDC, USDT |
+| Arbitrum | EIP-7702 | USDC |
+| Optimism | EIP-7702 | USDC |
+| Polygon | EIP-7702 | USDC |
+| Avalanche | EIP-7702 | USDC |
+| Fantom | EIP-7702 | USDC |
+| Gnosis | EIP-7702 | USDC |
+| TRON | MERX | USDT, USDC, USDD |
+| Bitcoin | Satoshi | BTC |
+| SEPA/EUR | AsterPay | EUR |
+
+**Anti-abuse:** Browser fingerprinting, progressive wallet requirement, IP rate limiting, global daily caps, burst protection.
 
 ---
 
-<p align="center">
-  <sub>© 2026 Rug Munch Media LLC — All Rights Reserved • Proprietary Software • Follow the build</sub>
-</p>
+## Find Us
+
+| Platform | Link |
+|----------|------|
+| Website | [rugmunch.io](https://rugmunch.io) |
+| MCP Server | `https://rugmunch.io/mcp` |
+| Smithery | [@cryptorugmuncher/rug-munch-intelligence](https://smithery.ai/server/@cryptorugmuncher/rug-munch-intelligence) |
+| Glama | [@cryptorugmuncher/rug-munch-intelligence](https://glama.ai/mcp/servers/@cryptorugmuncher/rug-munch-intelligence) |
+| mcp.so | [rug-munch-intelligence](https://mcp.so/server/rug-munch-intelligence) |
+| Open WebUI | [@cryptorugmuncher](https://openwebui.com/t/cryptorugmuncher/rug-munch-intelligence) |
+
+---
+
+## Documentation
+
+- [MCP Server README](https://github.com/Rug-Munch-Media-LLC/rug-munch-intelligence-mcp)
+- [User Guide](https://rugmunch.io/docs/mcp)
+- [FAQ](https://rugmunch.io/docs/faq)
+- [API Reference](https://rugmunch.io/docs)
+- [Payment Protocol](https://rugmunch.io/.well-known/x402)
+
+---
+
+**Rug Munch Intelligence** — AI-native crypto security. Built for agents, trusted by traders.
