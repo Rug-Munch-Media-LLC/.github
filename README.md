@@ -7,7 +7,7 @@
 ## 🔗 Links
 
 - **Website**: [rugmunch.io](https://rugmunch.io)
-- **API Docs**: [rugmunch.io/docs](https://rugmunch.io/docs)
+- **API Docs**: [rugmunch.io/mcp-docs](https://rugmunch.io/mcp-docs)
 - **x402 Discovery**: [rugmunch.io/.well-known/x402](https://rugmunch.io/.well-known/x402)
 - **OpenAPI Spec**: [rugmunch.io/openapi.json](https://rugmunch.io/openapi.json)
 - **Twitter**: [@cryptorugmunch](https://twitter.com/cryptorugmunch)
