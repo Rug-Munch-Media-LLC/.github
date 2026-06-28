@@ -115,8 +115,8 @@ We built the rails for AI-native micropayments. HTTP 402 Payment Required — ag
 | [rug-munch-intelligence-mcp](https://github.com/Rug-Munch-Media-LLC/rug-munch-intelligence-mcp) | MCP server — 210+ AI-powered crypto tools | Public |
 | [rugmuncher-backend](https://github.com/Rug-Munch-Media-LLC/rugmuncher-backend) | Backend API & services (FastAPI, Redis, FAISS) | Private |
 | [rmi-frontend](https://github.com/Rug-Munch-Media-LLC/rmi-frontend) | Web terminal — React/Next.js dashboard | Private |
-| [token-scanner](https://github.com/Rug-Munch-Media-LLC/token-scanner) | SENTINEL token security scanner | Public |
-| [wallet-scanner](https://github.com/Rug-Munch-Media-LLC/wallet-scanner) | SENTINEL wallet forensics & behavioral analysis | Public |
+| [token-scanner](https://github.com/Rug-Munch-Media-LLC/token-scanner) | RugMuncher Scanner — token security | Public |
+| [wallet-scanner](https://github.com/Rug-Munch-Media-LLC/wallet-scanner) | RugMuncher Scanner — wallet forensics & behavioral analysis | Public |
 | [rugcharts](https://github.com/Rug-Munch-Media-LLC/rugcharts) | Real-time charting, AI technical analysis, live trade streaming | Public |
 | [rugmaps](https://github.com/Rug-Munch-Media-LLC/rugmaps) | Interactive scam network & wallet connection mapping | Private |
 | [x402-gateway](https://github.com/Rug-Munch-Media-LLC/x402-gateway) | x402 MCP marketplace for crypto security tools | Public |
