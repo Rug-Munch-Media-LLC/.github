@@ -1,28 +1,27 @@
 # Rug Munch Media LLC
 
-**Wyoming LLC building open-source Web3 + AI infrastructure: token risk scoring, wallet forensics, multi-chain indexers, MCP + x402 payments.**
+Open-source Web3 and AI infrastructure: token risk scoring, wallet forensics, chain indexing, MCP and x402 payments.
 
-Self-funded. No venture capital, no outside investors, no token presale. The code
-is public so anyone can verify the claims on our site against the source.
+[![14 public repos](https://img.shields.io/badge/14_public_repos-blue)](https://git.rugmunch.io/RugMunchMedia) [![4 forges](https://img.shields.io/badge/4_forges-blue)](#where-the-code-lives) [![licences vary by repo](https://img.shields.io/badge/licences_vary_by_repo-lightgrey)](#security) [![no VC](https://img.shields.io/badge/no_VC-brightgreen)](https://cryptorugmunch.com)
 
-## What ships today
+Wyoming LLC. Self-funded: no venture capital, no presale, no outside investors.
 
-| Product | What it does | Where |
-|---|---|---|
-| **Rug Munch Intelligence** | Token risk scoring, wallet forensics, AI investigation. 70+ security engines across 16 chains. | [rugmunch.io](https://rugmunch.io) |
-| **RugBrain** | Retrieval-augmented intelligence over scam reports, token analyses and on-chain evidence. | [docs.cryptorugmunch.com](https://docs.cryptorugmunch.com) |
-| **Lite Chain Indexer** | 16 chains (14 EVM, Solana, Tron) indexed on free public RPCs. 359M+ rows. | [docs.cryptorugmunch.com](https://docs.cryptorugmunch.com) |
-| **Pry** | Web scraping and browser automation, Cloudflare bypass, MCP server. 190+ endpoints. | [pryscraper.com](https://pryscraper.com) |
-| **WalletPress** | Wallet engine across 55 chains. BIP39 derivation, AES-256 vault, WordPress plugin. | [walletpress.cc](https://walletpress.cc) |
-| **DegenFeed** | Multi-protocol social client: Nostr, Farcaster, Bluesky, Mastodon, Lens, Threads, RSS. | [degenfeed.xyz](https://degenfeed.xyz) |
-| **x402 Gateway** | Pay-per-call API settlement in USDC over HTTP. No accounts, no API keys, no KYC. | [docs.cryptorugmunch.com](https://docs.cryptorugmunch.com) |
-| **x402 Coffer** | Self-hosted x402 payment facilitator — makes any API agent-payable. | [docs.cryptorugmunch.com](https://docs.cryptorugmunch.com) |
-| **MCP server** | Exposes the RMI toolset to external AI agents with USDC payment per call. | [docs.cryptorugmunch.com](https://docs.cryptorugmunch.com) |
+## What we build
+
+| Product | What it does | License | Canonical repo |
+|---|---|---|---|
+| **RMI** | Token risk scoring and wallet forensics across 16 chains (14 EVM, Solana, Tron). | Source-available | [rmi-backend](https://git.rugmunch.io/RugMunchMedia/rmi-backend) |
+| **RugBrain** | RAG over scam reports, token analyses and on-chain evidence. | MIT | [rugbrain](https://git.rugmunch.io/RugMunchMedia/rugbrain) |
+| **Lite Chain Indexer** | 16 chains indexed on free public RPCs. | MIT | [lite-chain-indexer](https://git.rugmunch.io/RugMunchMedia/lite-chain-indexer) |
+| **Pry** | Web scraping and browser automation: Cloudflare bypass, MCP server, x402. | MIT | [pryscraper](https://git.rugmunch.io/RugMunchMedia/pryscraper) |
+| **WalletPress** | 55-chain wallet engine: BIP39 derivation, AES-256 vault, WordPress plugin. | BSL 1.1 | [walletpress](https://git.rugmunch.io/RugMunchMedia/walletpress) |
+| **DegenFeed** | Social client for Nostr, Farcaster, Bluesky, Mastodon and RSS. | MIT | [degenfeed](https://git.rugmunch.io/RugMunchMedia/degenfeed) |
+| **x402 Gateway + Coffer** | USDC pay-per-call settlement and a self-hosted facilitator. | MIT | [x402-coffer](https://git.rugmunch.io/RugMunchMedia/x402-coffer) |
+| **RMI MCP server** | 210+ intelligence tools for AI agents, settled per call. | MIT | [rmi-mcp-x402](https://git.rugmunch.io/RugMunchMedia/rmi-mcp-x402) |
 
 ## Where the code lives
 
-Self-hosted Forgejo is canonical; the other three forges are org-owned push mirrors.
-Every surface is readable without an account.
+Self-hosted Forgejo is canonical. GitHub, GitLab and Codeberg are org-owned push mirrors, readable without an account.
 
 | Surface | URL | Role |
 |---|---|---|
@@ -30,15 +29,27 @@ Every surface is readable without an account.
 | **GitHub** | [github.com/Rug-Munch-Media-LLC](https://github.com/Rug-Munch-Media-LLC) | Push mirror |
 | **GitLab** | [gitlab.com/rug-munch-media-group](https://gitlab.com/rug-munch-media-group) | Push mirror |
 | **Codeberg** | [codeberg.org/RugMunchMedia](https://codeberg.org/RugMunchMedia) | Push mirror |
-| **Radicle archive** | [code.cryptorugmunch.com](https://code.cryptorugmunch.com) | Read-only archive |
 
-Start with `rmi-mcp-x402`, `rugbrain` and `lite-chain-indexer`. If a claim on our
-site does not match the code, the code is the record.
+NIP-34 repository announcements: [npub1e97…rqud](https://njump.me/npub1e97559tn2j6j02shalmn5x6xv5jt8ejlclh6sta8nln0n55whwtszyrqud). Radicle archive: [code.cryptorugmunch.com](https://code.cryptorugmunch.com) (read-only).
 
-## The token
+## How to verify us
 
-$RMI has not launched: 1:1 allocation for $CRM v1 and $cryptorugmunch holders, the
-largest positions vest, no presale, no VC allocation, no team tranche — and no action
-required now. Full terms: [cryptorugmunch.com/products/crm](https://cryptorugmunch.com/products/crm).
+- **Read the code.** Start with `rmi-mcp-x402`, `rugbrain` and `lite-chain-indexer`. Where site copy and source disagree, source is the record.
+- **Reproduce the build.** Every public repository ships its own install and test commands; the public tier needs no private service.
+- **Check the commit history.** Forgejo holds canonical history. Mirrors can lag; Forgejo does not.
 
-**Site:** [cryptorugmunch.com](https://cryptorugmunch.com) · **Security:** see [SECURITY.md](SECURITY.md)
+## Security
+
+Report vulnerabilities privately to biz@rugmunch.io as described in [SECURITY.md](https://github.com/Rug-Munch-Media-LLC/.github/blob/main/SECURITY.md), not in a public issue. We acknowledge receipt within 48 hours.
+
+Licences vary by repository. MIT covers RugBrain, Lite Chain Indexer, Pry, DegenFeed, x402 Coffer and the MCP server; WalletPress is BSL 1.1; rmi-backend and rugmunchbot are source-available; rmi-frontend is proprietary. Read each `LICENSE` file before use.
+
+## Token
+
+$RMI has not launched. A 1:1 allocation is committed for $CRM v1 and $cryptorugmunch holders; there is no presale and no date is published.
+
+Terms: [products/crm](https://cryptorugmunch.com/products/crm) · [airdrop](https://cryptorugmunch.com/airdrop)
+
+---
+
+**Site** [cryptorugmunch.com](https://cryptorugmunch.com) · **Docs** [docs.cryptorugmunch.com](https://docs.cryptorugmunch.com) · **Telegram** [t.me/cryptorugmunch](https://t.me/cryptorugmunch) · Wyoming, USA
